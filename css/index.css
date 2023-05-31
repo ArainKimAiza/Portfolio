@@ -33,7 +33,7 @@
   }
   
   nav ul li a{
-    color: whitesmoke;
+    color: black;
     text-decoration: none;
     font-size: 18px;
     position: relative;
@@ -43,7 +43,7 @@
     content:'' ;
     width: 0;
     height: 3px;
-    background: whitesmoke;
+    background: black;
     position: absolute;
     left: 0;
     bottom: -6px;
@@ -62,7 +62,7 @@
     margin-top: 20px;
   }
   .header-text h1 span{
-    color: whitesmoke;
+    color: black;
   }
   
   html{
@@ -73,7 +73,7 @@
   }
   #about{
     padding-top : 80px 0;
-    color: whitesmoke;
+    color: black;
   }
   .row{
     display: flex;
@@ -92,7 +92,7 @@
   }
   .sub-title{
   font-size: 60px;
-  color: whitesmoke;
+  color: black;
   font-weight: 600;
   }
   .tab-titles{
@@ -110,7 +110,7 @@
     content: '';
     width: 0;
     height: 3px;
-    background: whitesmoke;
+    background: black;
     position: absolute;
     left: 0;
     bottom: -8px;
@@ -124,7 +124,7 @@
     margin: 10px 0;
   }
   .tab-contents ul li span{
-    color: whitesmoke;
+    color: black;
     font-size: 14px;
   }
   .tab-contents{
@@ -164,8 +164,8 @@
   .about-section {
     padding: 50px;
     text-align: center;
-    background-color:whitesmoke;
-    color: whitesmoke;
+    background-color:black;
+    color: black;
   }
   
   .container {
